@@ -4,7 +4,6 @@
 
 # SOFKA project
 
-## Configuración keycloack
-Para validar el acceso a los servicios rest se uso la autenticación de keycloak
-
-https://www.keycloak.org/
+Enlace de repositorios
+- [SOFKA client root](https://github.com/Angelo-Ponce/sof-client-root)
+- [SOFKA transaction root](https://github.com/Angelo-Ponce/sof-transaction-root)
